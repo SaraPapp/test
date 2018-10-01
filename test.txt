@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello
 world
 my name is Sara
+=======
+hello
+>>>>>>> parent of b3f7120... added new line with world
